@@ -1,6 +1,6 @@
-# 🔑 Key-Logger
+# Key-Logger
 
-An **educational keylogger** built in Python using the `pynput` library.  
+It **keylogger** is built for **educational and penteration purposes**, it is built in Python using the `pynput` library.  
 This project demonstrates how keystroke logging works in a **controlled, ethical environment**.  
 
 ⚠️ **Disclaimer**:  
