@@ -3,14 +3,14 @@
 It **keylogger** is built for **educational and penteration purposes**, it is built in Python using the `pynput` library.  
 This project demonstrates how keystroke logging works in a **controlled, ethical environment**.  
 
-⚠️ **Disclaimer**:  
+ **Disclaimer**:  
 This tool is strictly for **educational and research purposes only**.  
 Do **NOT** use it on any device without the owner’s explicit permission.  
 The developer is **not responsible** for any misuse of this software.  
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <img width="912" height="336" alt="image" src="https://github.com/user-attachments/assets/8e58b5da-06a2-4e24-8c9a-8a5a90e413e9" />
 
@@ -21,7 +21,7 @@ The developer is **not responsible** for any misuse of this software.
 
 ---
 
-## ✨ Features
+##  Features
 - Cross-platform support (Windows, Linux, macOS).
 - Logs **printable characters** and **special keys** (e.g., `[ENTER]`, `[SPACE]`, `[BACKSPACE]`).
 - Saves logs in a timestamped file inside the `logs/` directory.
@@ -31,7 +31,7 @@ The developer is **not responsible** for any misuse of this software.
 
 ---
 
-## 🚀 Installation & Usage
+##  Installation & Usage
 
 ### 1. Clone the Repository
 ```bash
